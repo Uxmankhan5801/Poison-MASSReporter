@@ -36,3 +36,5 @@ The script employs effective error handling mechanisms to address potential issu
 
 # Proof of Concept (POC)
 ![image](https://github.com/ParzivalHack/Poison-MASSReporter/assets/82817793/ca89eef8-281b-4b56-9a04-f30c312132a1)
+DISCLAIMER:
+The tool's effectiveness, solely depends on TikTok's algorithm. No results are guaranteed. Use this tool responsibly and following TikTok's guidelines/ToS.
