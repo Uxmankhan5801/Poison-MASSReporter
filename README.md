@@ -61,3 +61,15 @@ The tool's effectiveness, solely depends on TikTok's algorithm. No results are g
 * Once there, just normally report (1 time is enough) the Target and check the Inspect Element/Network for an URL like the one below (in the Inspect Element, the URL, just starts with "?aid="):
 https://www.tiktok.com/aweme/v2/aweme/feedback/?aid=1988&app_language=it-IT&app_name=tiktok_web&browser_language=it-IT&browser_name=Mozilla&browser_online=true&browser_platform=Win32&browser_version=5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36%20OPR%2F100.0.0.0&channel=tiktok_web&cookie_enabled=true&current_region=IT&device_id=7264255513738053152&device_platform=web_pc&focus_state=true&from_page=user&history_len=7&is_fullscreen=false&is_page_visible=true&lang=it-IT&nickname=sticazzi&object_id=134791939023036416&os=windows&owner_id=134791939023036416&priority_region=IT&reason=9007&referer=https%3A%2F%2Fwww.tiktok.com%2Flogin%2Femail%2Fforget-password&region=IT&report_type=user&reporter_id=7093583201461322757&root_referer=https%3A%2F%2Fwww.tiktok.com%2Flogin%2Femail%2Fforget-password&screen_height=960&screen_width=1536&secUid=MS4wLjABAAAAN4yo9KTjQofc42djUQyOIqsFXm6lKoDeBkY4llMgc2CPILEt4FT-SrG9vZG94Su-&target=134791939023036416&tz_name=Europe%2FRome&verifyFp=verify_lkzpdqth_JSVAd8B4_OvvF_4oDS_BMmY_qZoyjfADU0eT&webcast_language=it-IT
 * Now, just input the URL in the tool and start MASS Reporting :D
+
+# License AGPL-3.0
+
+Features of the GNU Affero General Public License (AGPL-3.0):
+
+* Copyleft: Like the GPL, the AGPL-3.0 is a copyleft license. This means that if you modify or extend the software licensed under AGPL-3.0, you must distribute those modifications under the same license. This ensures that the source code remains open and accessible to everyone.
+
+* Network Interaction: One key feature that distinguishes the AGPL-3.0 from the regular GPL is its "network interaction" clause. If you run a modified AGPL-licensed software on a server and provide access to it over a network, you must also make the modified source code available to the users who interact with that software over the network. This closes the so-called "application service provider (ASP) loophole" that exists in the regular GPL.
+
+* Distribution and Use: AGPL-3.0 allows users to freely use, modify, and distribute the software, provided they comply with the license's terms, including the distribution of the source code for any changes.
+
+* Compatibility: The AGPL-3.0 is not compatible with all other open-source licenses, particularly those that do not require derivative works to be distributed under the same license. If you use AGPL-3.0 code in your project, your project must be released under AGPL-3.0 or a compatible license.
